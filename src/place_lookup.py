@@ -170,4 +170,4 @@ def answer(question, notice=None):
 
     lines.append("\nSource: structured notice data from the SAM.gov API, not the document text.")
 
-
+    return "\n".join(lines), sources
