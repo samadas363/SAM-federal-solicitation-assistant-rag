@@ -1,0 +1,36 @@
+# Local Chroma vector database
+vectordb/*
+!vectordb/.gitkeep
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local RAG index and generated data
+chroma_db/
+.chroma/
+data/raw/
+data/processed/
+
+# Local RAG index and generated data
+chroma_db/
+.chroma/
+data/raw/
+data/processed/
+vectordb/*
+!vectordb/.gitkeep
+
+# Evaluation and temporary files
+.pytest_cache/
+.coverage
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db

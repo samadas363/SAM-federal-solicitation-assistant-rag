@@ -1,0 +1,13 @@
+id,type,question,notice,file,expected_file,expected_page,answer_keywords
+q1,requirements,What past performance information is required?,Alliant,,47QTCB24R0009,320,CPARS|J.P-6
+q2,requirements,What past performance information is required?,Polaris,,SB Pool RFP,,CPARS|J.P-4
+q3,factual,When are proposals due?,Polaris,,Amend0007,,October 7
+q4,factual,Which FAR clause covers set-aside of orders?,Polaris,,SB Pool RFP,,52.219-13
+q5,amendment,What is the purpose of this amendment?,Alliant,0005,0005,,
+q6,amendment,What is the purpose of this amendment?,Polaris,Amend0005,Amend0005,,
+q7,requirements,What must a joint venture submit?,Polaris,,SB Pool RFP,67,annual representations
+q8,cross,Which notice covers data exchange services?,,,EIDS,,Data Exchange
+n1,negative,What is the capital of France?,,,,,
+n2,negative,What is the cafeteria menu at GSA headquarters?,,,,,
+q9,structured,Which notices have place of performance in Virginia?,,,,,Virginia
+q10,structured,Which notices have place of performance in Georgia or Tennessee?,,,,,No notice
